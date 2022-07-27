@@ -135,30 +135,30 @@
 
                                         Please <a href="docs/LSCU-COVID-Policy.pdf" target="_blank">click here</a> for the current COVID-19 Policy.
                                         <!--<p>Throughout the COVID-19 pandemic, LSCU & Affiliates has tried to follow CDC guidance to protect our employees and stop the spread of the virus. Cases of COVID-19 related to the Delta variant are on the rise nationally.  The Delta variant is a mutation of the coronavirus and is the most contagious variant in the pandemic. It is more contagious than viruses such as Ebola and in terms of spreading is like chickenpox.  Last week the Centers for Disease Control and Prevention (CDC) released new guidelines to wear a mask indoors, even if vaccinated, to protect yourself and possibly spread to others, especially in areas of high transmission like the Southeast.</p>
-				  
-				  <p><strong>To this end, and effective Tuesday, August 3, 2021, we will require all LSCU & Affiliate team members and guests in our facilities to wear masks while in common areas, as well as in meetings.</strong></p>
-				  
-				  <p>Vaccinations provide good protection from hospitalization and death from COVID-19 and its variants.  Fortunately for us, we have a very high vaccination rate among our team members. Management continues to encourage all our staff to get vaccinated to help us stop the spread so we can all get our lives back to some form of normalcy.</p>
-				  
-				  <p><strong>Effective immediately, team members who have not been vaccinated, but would like to do so, will be provided administrative leave time to obtain the vaccine.</strong> The following leave time will be offered.</p>
-				  
-				  <ul style="list-style: disc;">
-				    <li>Up to two hours paid administrative leave for each vaccine dosage; and</li>
-				    <li>One day of paid administrative leave for potential side effects of the final dose</li>
-			      </ul>
-				  <p>If you have any questions, please feel free to contact P&C of your upline EMT member directly. Thank you for your cooperation.</p>
-				  <p><strong>Note:</strong> Obtaining the COVID-19 vaccine is a matter of personal preference. No team members should feel uncomfortable with their personal decision to be vaccinated or not. As such, team members should refrain from conversations in the office about whether an individual should or should not get vaccinated. It is all our responsibility to conduct ourselves in a manner that contributes to a positive work environment while respecting each other’s differences.</p>
-				  <p><strong>Testing sites for COVID-19</strong></p>
-				  <p>As we continue to navigate the COVID-19 pandemic, People & Culture has done some great research for all of us in case we need or want to get tested for COVID-19.</p>
-				  <ul style="list-style: disc;">
-				    <li>Jefferson county testing locations can be <a href="https://data-jeffco-al.opendata.arcgis.com/pages/covid-19-in-jefferson-county-alabama-testing-locations" target="_blank">FOUND HERE</a></li>
-				    <li>Gwinnett county testing locations can be <a href="https://www.gnrhealth.com/covid-19-info/" target="_blank">FOUND HERE</a></li>
-				    <li>Leon county testing locations can be <a href="https://www.tmh.org/coronavirus/testing" target="_blank">FOUND HERE</a></li>
-			      </ul>
-				  
-				  
-				  <p><strong>Current Travel Policy</strong></p>
-				  <p>Business travel is permitted by vehicles. If you are comfortable traveling with more than yourself, you may do so at your discretion and all parties must agree. Depending on various factors, there may be circumstances where air travel may be approved now. </p>-->
+                                            
+                                            <p><strong>To this end, and effective Tuesday, August 3, 2021, we will require all LSCU & Affiliate team members and guests in our facilities to wear masks while in common areas, as well as in meetings.</strong></p>
+                                            
+                                            <p>Vaccinations provide good protection from hospitalization and death from COVID-19 and its variants.  Fortunately for us, we have a very high vaccination rate among our team members. Management continues to encourage all our staff to get vaccinated to help us stop the spread so we can all get our lives back to some form of normalcy.</p>
+                                            
+                                            <p><strong>Effective immediately, team members who have not been vaccinated, but would like to do so, will be provided administrative leave time to obtain the vaccine.</strong> The following leave time will be offered.</p>
+                                            
+                                            <ul style="list-style: disc;">
+                                                <li>Up to two hours paid administrative leave for each vaccine dosage; and</li>
+                                                <li>One day of paid administrative leave for potential side effects of the final dose</li>
+                                            </ul>
+                                            <p>If you have any questions, please feel free to contact P&C of your upline EMT member directly. Thank you for your cooperation.</p>
+                                            <p><strong>Note:</strong> Obtaining the COVID-19 vaccine is a matter of personal preference. No team members should feel uncomfortable with their personal decision to be vaccinated or not. As such, team members should refrain from conversations in the office about whether an individual should or should not get vaccinated. It is all our responsibility to conduct ourselves in a manner that contributes to a positive work environment while respecting each other’s differences.</p>
+                                            <p><strong>Testing sites for COVID-19</strong></p>
+                                            <p>As we continue to navigate the COVID-19 pandemic, People & Culture has done some great research for all of us in case we need or want to get tested for COVID-19.</p>
+                                            <ul style="list-style: disc;">
+                                                <li>Jefferson county testing locations can be <a href="https://data-jeffco-al.opendata.arcgis.com/pages/covid-19-in-jefferson-county-alabama-testing-locations" target="_blank">FOUND HERE</a></li>
+                                                <li>Gwinnett county testing locations can be <a href="https://www.gnrhealth.com/covid-19-info/" target="_blank">FOUND HERE</a></li>
+                                                <li>Leon county testing locations can be <a href="https://www.tmh.org/coronavirus/testing" target="_blank">FOUND HERE</a></li>
+                                            </ul>
+                                            
+                                            
+                                            <p><strong>Current Travel Policy</strong></p>
+                                            <p>Business travel is permitted by vehicles. If you are comfortable traveling with more than yourself, you may do so at your discretion and all parties must agree. Depending on various factors, there may be circumstances where air travel may be approved now. </p>-->
 
                                     </div>
                                 </div>
@@ -456,9 +456,9 @@
                                         <!--end item-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/Essential-Employee-Letter.pdf" target="_blank">LSCU Essential Employee Letter</a></div>
-        		</div>-->
+                                                <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                                <div class="text"><a href="docs/Essential-Employee-Letter.pdf" target="_blank">LSCU Essential Employee Letter</a></div>
+                                            </div>-->
 
 
                                         <p><strong>Organizational Charts</strong></p>
@@ -502,25 +502,25 @@
                                         <!--end item-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/SurpriseParty.pptx" target="_blank">Thank You For Being An Essential Presentation</a></div>
-        		</div>-->
+                                                <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                                <div class="text"><a href="docs/SurpriseParty.pptx" target="_blank">Thank You For Being An Essential Presentation</a></div>
+                                            </div>-->
 
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/May-6-2020-All-Staff-Meeting.pptx" target="_blank">All-Team Member Meeting</a></div>
-        		</div>-->
+                                                <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                                <div class="text"><a href="docs/May-6-2020-All-Staff-Meeting.pptx" target="_blank">All-Team Member Meeting</a></div>
+                                            </div>-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/COVID-19-Presentation-Internal-Supervisors.pptx" target="_blank">Families First Coronavirus Response Act (FFCRA) Supervisor Edition</a></div>
-        		</div>-->
+                                                <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                                <div class="text"><a href="docs/COVID-19-Presentation-Internal-Supervisors.pptx" target="_blank">Families First Coronavirus Response Act (FFCRA) Supervisor Edition</a></div>
+                                            </div>-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/COVID-19-Presentation-Internal-Team-Members.pptx" target="_blank">Families First Coronavirus Response Act (FFCRA) Team Member Edition</a></div>
-        		</div>-->
+                                                <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                                <div class="text"><a href="docs/COVID-19-Presentation-Internal-Team-Members.pptx" target="_blank">Families First Coronavirus Response Act (FFCRA) Team Member Edition</a></div>
+                                            </div>-->
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
@@ -534,10 +534,10 @@
 
 
                                         <!--<p align="center"><strong>Zoom Tutorial</strong><br>
-				  <iframe width="560" height="315" src="https://www.youtube.com/embed/ng8mURGCskM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Zoom Tutorial"></iframe></p>-->
+                                                <iframe width="560" height="315" src="https://www.youtube.com/embed/ng8mURGCskM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Zoom Tutorial"></iframe></p>-->
 
                                         <!--<p align="center"><strong>Coronavirus Webinar - 3/13/2020</strong><br>
-				  <iframe width="560" height="315" src="https://www.youtube.com/embed/uALPPGYcwVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Coronavirus Webinar"></iframe></p>-->
+                                                <iframe width="560" height="315" src="https://www.youtube.com/embed/uALPPGYcwVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Coronavirus Webinar"></iframe></p>-->
 
                                         <p><strong>Taxes & Expenses</strong></p>
 
@@ -569,10 +569,10 @@
 
                                         <!--<p><strong>Infographic</strong></p>
 				  
-				  <div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/lscu-infographic.pdf" target="_blank">The New LSCU</a></div>
-        		</div>-->
+                                            <div class="list-style-2">
+                                                <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                                <div class="text"><a href="docs/lscu-infographic.pdf" target="_blank">The New LSCU</a></div>
+                                            </div>-->
 
                                         <p><strong>Policies & Request Forms</strong></p>
 
@@ -583,14 +583,14 @@
                                         <!--end item-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/COVID-19-Temporary-Work-Schedule-Arrangement-Request-Form.pdf" target="_blank">COVID-19 Pandemic Temporary Work Schedule/Arrangement Request Form</a></div>
-        		</div>-->
+                                        <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                        <div class="text"><a href="docs/COVID-19-Temporary-Work-Schedule-Arrangement-Request-Form.pdf" target="_blank">COVID-19 Pandemic Temporary Work Schedule/Arrangement Request Form</a></div>
+                                    </div>-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/Request-for-FFCRA-Leave.pdf" target="_blank">Families First Coronavirus Response Act Leave Request Form</a></div>
-        		</div>-->
+                                        <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                        <div class="text"><a href="docs/Request-for-FFCRA-Leave.pdf" target="_blank">Families First Coronavirus Response Act Leave Request Form</a></div>
+                                    </div>-->
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
@@ -674,17 +674,17 @@
 
                                         <iframe width="560" height="315" src="https://www.youtube.com/embed/s9UsFSTnTB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+                                        <!-- <p><strong>Photos</strong></p>
+
+                                        <div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="https://myleverage-my.sharepoint.com/personal/barrocha_fcul_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbarrocha%5Ffcul%5Fcom%2FDocuments%2FHeadshots2022&ga=1" target="_blank">Professional Headshots</a></div>
+                                        </div> -->
+                                        <!--end item-->
+
                                     </div>
                                 </div>
 
-
-                                <!--<div class="accordion_in two">
-              <div class="acc_head">Employment Posters</div>
-              <div class="acc_content">
-				  <p><a href="docs/FFCRA_Poster_WH1422_Non-Federal.pdf" target="_blank">Families First Coronavirus Response Act (FFCRA or Act) Poster</a></p>
-				  
-			  </div>
-            </div>-->
 
                                 <!-- Section 2 -->
                                 <div class="accordion_in two">
@@ -866,9 +866,9 @@
                                         </p>
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/2021-Benefit-Booklet.pdf" target="_blank">Employee Benefit Booklet</a></div>
-        		</div>-->
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="docs/2021-Benefit-Booklet.pdf" target="_blank">Employee Benefit Booklet</a></div>
+                                        </div>-->
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
@@ -955,14 +955,14 @@
                                         <!--end item-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="docs/2021-Benefit-Costs.pdf" target="_blank">2021 Benefits Costs</a></div>
-        		</div>-->
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="docs/2021-Benefit-Costs.pdf" target="_blank">2021 Benefits Costs</a></div>
+                                        </div>-->
 
                                         <!--<div class="list-style-2">
-          			<div class="icon"><i class="fa fa-angle-right"></i></div>
-          			<div class="text"><a href="http://www.petinsurance.com/affiliates/lscucoop" target="_blank">LSCU Pet Insurance Plan</a></div>
-        		</div>-->
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="http://www.petinsurance.com/affiliates/lscucoop" target="_blank">LSCU Pet Insurance Plan</a></div>
+                                        </div>-->
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
@@ -1704,73 +1704,6 @@
                                     </div>
                                 </div>
 
-                                <!-- Section 8 -->
-                                <div class="accordion_in two">
-                                    <div class="acc_head">LSCU Leadership Team Resources</div>
-                                    <div class="acc_content">
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/January-24-2018-LT-Meeting.pptx" target="_blank">January 24, 2018 LT Meeting Slides</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/March-28-2018-LT-Meeting.pptx" target="_blank">March 28, 2018 LT Meeting Slides</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/May-10-2018-LT-Meeting.pptx" target="_blank">May 10, 2018 LT Meeting Slides</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/December-19-2018-LT-Meeting-003.pptx" target="_blank">December 19, 2018 LT Meeting Slides</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/February-5-2019-LT-Meeting.pptx" target="_blank">February 5, 2019 LT Meeting Slides</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/2017-Leadership-Books.pdf" target="_blank">2017 Leadership Books</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/2018-Leadership-Books.pdf" target="_blank">2018 Leadership Books</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/Book-Recommendations.pdf" target="_blank">Book Recommendations</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/December-19-2018-LT-Meeting-003.pptx" target="_blank">December 2018 Leadership Team Meeting Powerpoint</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/21st-Century-Leadership-Jan-2019.pptx" target="_blank">21st Century Leadership Powerpoint</a></div>
-                                        </div>
-                                        <!--end item-->
-
-                                    </div>
-                                </div>
 
                                 <!-- Section 9 -->
                                 <div class="accordion_in two">
