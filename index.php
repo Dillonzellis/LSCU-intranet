@@ -1924,7 +1924,7 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/GA-DBA-Letterhead (1).docx" target="_blank">GA - DBA Letterhead</a></div>
+                                            <div class="text"><a href="docs/GA-DBA-Letterhead.docx" target="_blank">GA - DBA Letterhead</a></div>
                                         </div>
                                         <!--end item-->
 
@@ -1942,7 +1942,7 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/LSCU Electronic Letterhead.docx" target="_blank">LSCU Letterhead</a></div>
+                                            <div class="text"><a href="docs/LSCU-Electronic-Letterhead.docx" target="_blank">LSCU Letterhead</a></div>
                                         </div>
                                         <!--end item-->
 
