@@ -679,7 +679,7 @@
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
                                             <div class="text"><a href="https://myleverage-my.sharepoint.com/personal/barrocha_fcul_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbarrocha%5Ffcul%5Fcom%2FDocuments%2FHeadshots2022&ga=1" target="_blank">Professional Headshots</a></div>
-                                        </div> -->
+                                        </div>  -->
                                         <!--end item-->
 
                                     </div>
@@ -835,7 +835,9 @@
                                         </div>
                                         <!--end item-->
 
-                                        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yJXpTf6RygA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                                        <!-- <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yJXpTf6RygA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
+
+
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
@@ -1634,8 +1636,17 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="docs/2021-Performance-Review-Goal-Setting-Training-Mgrs-Supvsrs.pdf" target="_blank">2021 Performance Review & Goal Setting Session</a></div>
+                                            <div class="text"><a href="docs/Paylocity Performance Goal Entry Instructions .pdf" target="_blank">2022 Paylocity Performance Goal Entry Instructions</a></div>
                                         </div>
+                                        <!--end item-->
+
+                                        <div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="docs/Performance Managment Supervisors Training.pptx" target="_blank">Performance Management Supervisors Training</a></div>
+                                        </div>
+
+                                        <video controls src="./docs/Performance MGMT Review Process .mp4" width="560" height="315" type="video/mp4"></video>
+
                                         <!--end item-->
 
                                         <div class="list-style-2">
