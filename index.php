@@ -652,6 +652,14 @@
                                         </div>
                                         <!--end item-->
 
+                                        <p><strong>Photos</strong></p>
+
+                                        <div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="https://photos.app.goo.gl/xT2uECeAsmhy2qDK8" target="_blank">Professional Headshots</a></div>
+                                        </div>
+                                        <!--end item-->
+
                                         <p><strong>LinkedIn Training</strong></p>
 
                                         <div class="list-style-2">
@@ -674,13 +682,7 @@
 
                                         <iframe width="560" height="315" src="https://www.youtube.com/embed/s9UsFSTnTB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-                                        <!-- <p><strong>Photos</strong></p>
 
-                                        <div class="list-style-2">
-                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="https://myleverage-my.sharepoint.com/personal/barrocha_fcul_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbarrocha%5Ffcul%5Fcom%2FDocuments%2FHeadshots2022&ga=1" target="_blank">Professional Headshots</a></div>
-                                        </div>  -->
-                                        <!--end item-->
 
                                     </div>
                                 </div>
@@ -1154,7 +1156,7 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text"><a href="https://myleverage.com/assets/docs/LMCUR_XfinitySpectrum_Sell_Sheet_Final.pdf" target="_blank">Love My Credit Union Rewards</a></div>
+                                            <div class="text"><a href="docs/product-slicks/LMCUR-XfinitySpectrum-ProductSheet.pdf" target="_blank">Mobile & Internet Services (LMCUR)</a></div>
                                         </div>
                                         <!--end item-->
 
