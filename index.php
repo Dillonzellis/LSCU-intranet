@@ -652,7 +652,102 @@
                                         </div>
                                         <!--end item-->
 
-                                        <p><strong>Photos</strong></p>
+                                        <p><strong>TicketsatWork</strong></p>
+										
+										<p>Your work-life balance and general well-being are as important to us as the work you contribute. That's why we’re excited to offer a discounts program through TicketsatWork, your one-stop shop for savings with brands you know and love, discounts on local experiences, travel & entertainment, curated offers just for our organization, and new deals added weekly.</p>
+										
+										<p><strong>It’s cost-free and easy to enroll. Just visit <a href="https://www.ticketsatwork.com/tickets/" target="_blank">www.ticketsatwork.com/tickets/</a> and use the company code <span style="font-size: 18px;">LSCU</span> to start saving on:</strong></p>
+
+                                        <div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Work From Home Essentials</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Streaming Services: Disney+, Showtime and more</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Attractions, Shows, Sporting Events, and Concerts</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Hotels and rental cars</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Sam's Club Memberships - over 40% off</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Education & Enrichment: Language Learning, Audiobooks and more</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Heatlh & Wellness</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Home Office: Electronics, Laptops and more</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Insurane, Home Security and Protection Services</div>
+                                        </div>
+                                        <!--end item-->
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Food & Wine</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Online Shopping</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Financial Serivces</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Pet Supplies</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">Entertainment</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text">And so much more!</div>
+                                        </div>
+                                        <!--end item-->
+										
+										<p><strong>Photos</strong></p>
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
@@ -797,7 +892,7 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text">The LSCU coupon code is <strong>22LEAGUE-LSCU2</strong>.</div>
+                                            <div class="text">The LSCU coupon code is <strong>22-2LEAGUE-LSCU2-1</strong>.</div>
                                         </div>
                                         <!--end item-->
 
@@ -1379,8 +1474,8 @@
                                             <div class="text"><a href="docs/product-slicks/CU-Assured-2018-Product Sheet.pdf" target="_blank">CU Assured Product Sheet</a></div>
                                         </div>
                                         <!--end item-->
-
-                                        <div class="list-style-2">
+										
+										<div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
                                             <div class="text"><a href="docs/product-slicks/CUFS-Product-Sheet.pdf" target="_blank">CUFS Product Sheet</a></div>
                                         </div>
@@ -2302,6 +2397,18 @@
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
                                             <div class="text"><a href="docs/Exporting-Reports-Salesforce.pdf" target="_blank">Exporting Reports</a></div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="docs/Salesforce-User-Documentation-Creating-Reports.pdf" target="_blank">Creating Reports</a></div>
+                                        </div>
+                                        <!--end item-->
+										
+										<div class="list-style-2">
+                                            <div class="icon"><i class="fa fa-angle-right"></i></div>
+                                            <div class="text"><a href="docs/Salesforce-User-Documentation-Tracking-Time-in-Cases.pdf" target="_blank">Tracking Time in Cases</a></div>
                                         </div>
                                         <!--end item-->
 
